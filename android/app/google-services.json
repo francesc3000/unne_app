@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "400686721312",
+    "firebase_url": "https://unne-database.firebaseio.com",
+    "project_id": "unne-database",
+    "storage_bucket": "unne-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400686721312:android:303ffd003484623a",
+        "android_client_info": {
+          "package_name": "me.unne.unneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400686721312-895v6rq62lgikq5fafn8cuqpqc0m4bqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.unne.unneapp",
+            "certificate_hash": "7c3fcae023b821a150598ea0f6a1d977e5a78549"
+          }
+        },
+        {
+          "client_id": "400686721312-fu7r19t407h66vop8jnl99nf2eu9puj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.unne.unneapp",
+            "certificate_hash": "71857a1c432eb4946a00514b780497979b7949fa"
+          }
+        },
+        {
+          "client_id": "400686721312-k6jjho7js3ahn46bv0dklr5eoqaqldqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJnSE_ZXux3gtuTEJ_zbErB1hNEzScY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400686721312-k6jjho7js3ahn46bv0dklr5eoqaqldqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
